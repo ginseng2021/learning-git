@@ -1,1 +1,3 @@
-func hello () {}
+package main
+
+func main() {}
